@@ -24,7 +24,7 @@ const Header = () => {
                 </div>
 
             </div>
-            <div className="header__right">
+            <div className="header__rightContainer">
             <i className="fas fa-crown"></i>
             <i className='fas fa-inbox'></i>
             <i className='fas fa-comment-alt'></i>
